@@ -1,0 +1,30 @@
+{
+  "name": "extendscript_dialogs",
+  "version": "1.0.0",
+  "description": "A basic logging file Class for Adobe ExtendScript with UMD wrapper for cross-compatability with AMD and node.js require.",
+  "main": "./dist/extendscript_dialogs.jsxinc",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxJohnson/extendscript_dialogs.git"
+  },
+  "keywords": [
+    "extendscript",
+    "adobe",
+    "cep",
+    "photoshop",
+    "log",
+    "logging",
+    "logger",
+    "console",
+    "jsx"
+  ],
+  "author": "Max Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxJohnson/extendscript_dialogs/issues"
+  },
+  "homepage": "https://github.com/MaxJohnson/extendscript_dialogs#readme"
+}
