@@ -1,6 +1,6 @@
 {
   "name": "extendscript_dialogs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A helper Class for quick ScriptUI dialogs in Adobe ExtendScript with UMD wrapper for cross-compatability with AMD and node.js require.",
   "main": "./dist/extendscript_dialogs.jsxinc",
   "scripts": {
